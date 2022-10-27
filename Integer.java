@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Integer {
 
 
-        void Privet(String[] args){
+    public static void Privet(String[] args){
             System.out.println("Который час?");
             Scanner scanner = new Scanner(System.in);
             int currentHour = scanner.nextInt();

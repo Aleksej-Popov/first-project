@@ -47,4 +47,7 @@ public class Praktikum {
             System.out.println("Не правильное значение времени");
         }
     }
+    public static void abc() {
+
+    }
 }
